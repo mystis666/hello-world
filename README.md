@@ -1,3 +1,2 @@
 # hello-world
-Starting with github
-Trying to make plots and understand Python
+Starting with github and trying to make plots, first steps in Python.
